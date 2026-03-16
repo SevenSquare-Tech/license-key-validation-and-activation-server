@@ -8,6 +8,8 @@ It uses Parcel as the bundler and development server to quickly build and run th
 The application is lightweight and suitable for testing, learning, or integrating license validation features
 in web-based systems.
 
+[A Complete Guide to Build a License Key Validation & Activation with ReactJs & NodeJs.](https://www.sevensquaretech.com/license-key-validation-activation-server-reactjs-nodejs/)
+
 ---
 
 ## Project Structure
